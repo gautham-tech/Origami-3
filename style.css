@@ -1,0 +1,52 @@
+h1{
+    background-color: #00FFFF;
+    color: rgb(0, 0, 0);
+    display:flex;
+    padding-left:500px
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0, 255, 0);
+    padding: 15px;
+    font-size: 20px;
+    width: 88px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+body{
+     margin: 0px
+     background-color #e7d6a6;
+}
+
+.item{
+    border-radius: 20px;
+    background-color: rgb(0, 255, 0);
+    width: 1125px;
+    margin-left:auto 0px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    padding-top: 0px;
+    
+}
+
+.item img{
+    border:2px solid #000000;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+
+.designs{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin:25px;
+    padding:30px;
+    width:310px;
+    font-family:algerian;
+    
+}
+
+
